@@ -24,10 +24,18 @@ h1{
 	line-height: 100px;
 }
 
+.col:hover{
+	background-color: lightgrey;
+}
+
 .border-b{
 	border-bottom: 10px solid black;
 }
 
 .border-r{
 	border-right: 10px solid black;
+}
+
+.winner{
+	color: blue;
 }
